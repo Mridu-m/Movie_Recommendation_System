@@ -15,6 +15,7 @@ This project is a content-based movie recommendation system that suggests simila
 - NumPy
 
 ## 📂 Project Structure
+```
 Movie_Recommendation_System/
 │
 ├── data/
@@ -30,6 +31,7 @@ Movie_Recommendation_System/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 ## Dataset link: 
 ```
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
